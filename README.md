@@ -1,2 +1,3 @@
 # hello-world
-first_code
+print("Hello world")
+
